@@ -1,5 +1,7 @@
 # Example repository for using GAP on Binder
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/gap-docker-binder/master)
+
 This repository should show you how to use deploy [GAP](https://wwww.gap-system.org) Jupyter notebooks to Binder.
 
 ## Using GAP on Binder
