@@ -1,6 +1,6 @@
 # Example repository for using GAP on Binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/gap-docker-stable-4.11/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-system/gap-docker/master)
 
 This repository should show you how to use deploy [GAP](https://wwww.gap-system.org) Jupyter notebooks to Binder.
 If you simply want to try out GAP on mybinder.org, you can click the launch badge above.
@@ -8,9 +8,8 @@ If you simply want to try out GAP on mybinder.org, you can click the launch badg
 ## Using existing jupyter notebooks
 
 GAP provides several Binder-ready Docker images, for example:
-- [gapsystem/gap-docker](https://hub.docker.com/r/gapsystem/gap-docker/)
-- [gapsystem/gap-docker-stable-4.11](https://hub.docker.com/r/gapsystem/gap-docker-stable-4.11/)
-- [gapsystem/gap-docker-master](https://hub.docker.com/r/gapsystem/gap-docker-master/)
+- for the latest GAP release [gap-system/gap-docker](https://hub.docker.com/r/gapsystem/gap-docker/)
+- for the GAP development version [gap-system/gap-docker-master](https://hub.docker.com/r/gapsystem/gap-docker-master/)
 
 Is is based on the current master branch of GAP.
 To use for example the 4.11 image to deploy your notebook to Binder, use the following steps:
