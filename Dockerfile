@@ -1,3 +1,3 @@
-FROM gapsystem/gap-docker-master:20180820
+FROM gapsystem/gap-docker
 
 COPY . /home/gap
